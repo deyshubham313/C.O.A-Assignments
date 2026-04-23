@@ -45,11 +45,3 @@ Practicing short and precise answers
 Browse individual assignment files
 Study concise answers for quick revision
 Refer to diagrams to improve understanding
-👩‍💻 Creator
-
-Prepared by: Lakshita
-Subject: Computer Organization & Architecture
-
-📄 Note
-
-This content is meant strictly for academic and learning purposes.
